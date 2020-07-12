@@ -1,5 +1,6 @@
  <template>
       <div>
+        <h1>Vue Project</h1>
         <intro></intro>
         <div id="body">
           <div id="current">
