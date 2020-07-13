@@ -1,4 +1,4 @@
-# krytpo-watcher
+# Cryptocurrency Watcher Built using Vue.js 
 
 > A Vue.js project
 
